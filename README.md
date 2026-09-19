@@ -2,7 +2,7 @@
 
 **[← All systems](https://github.com/musabqazi)** · [Hook Lab](https://github.com/musabqazi/hook-lab) · [Caption Lab](https://github.com/musabqazi/caption-lab) · [Portfolio](https://github.com/musabqazi/portfolio)
 
-# Cavello Lab
+# Carousel Lab
 
 **Transcript in, finished on-brand Instagram carousel out, in about two minutes — with a human approving every one before it can be exported.**
 
